@@ -18,11 +18,7 @@ Unity Asset Store and Sketchfab Integration: High-quality assets enhance the ove
 
 How to Experience -->
 
-Ensure you have an HTC Vive headset.
-
 Download the project (Link to the project file or executable).
-
-Follow the installation instructions in the provided documentation.
 
 Put on your HTC Vive headset and start exploring the Virtual Flame Lab!
 
@@ -33,6 +29,8 @@ https://youtu.be/KDl15X1cZCg?feature=shared
 
 
 Contributors -->
-Shikksha Nayan,
+
+
+Shikksha Nayan , 
 Riya Agarwal
 
